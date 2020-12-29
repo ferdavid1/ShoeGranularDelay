@@ -4,6 +4,7 @@ Granular Delay Mobile App using MobMuPlat, Pure Data. Based on the grannie-bashe
 Directions:
 
 - IOS
+
 	Download the MobMuPlat App
 	If you have an Itunes-compaitble device:
 		Open Itunes, select your device, under apps choose mobmuplat. 
@@ -12,6 +13,7 @@ Directions:
 		Play music on your device and it will be modified according to the effect.  
 
 - Android
+
 	Download the MobMuPlat App on the Google Play Store
 	Download this projects "grandelay" folder onto your Android device
 	Find the MobMuPlat folder in your internal storage
@@ -19,6 +21,7 @@ Directions:
 	Play music on your device and it will be modified according to the effect.  	
 
 - Windows 
+
 	Download MobMuPlat (MMP) for Windows
 	Open the GUI in the MMP "CrossPlatformJava" folder
 	Open your preferred Pure Data console
