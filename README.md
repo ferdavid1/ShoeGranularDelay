@@ -12,7 +12,7 @@ Plug in headphones or iRig before starting the MMP file, otherwise you'll get a 
 
 - IOS
 
-	Download the MobMuPlat App
+		Download the MobMuPlat App
 
 	If you have Itunes / an older device:
 
@@ -44,30 +44,30 @@ Plug in headphones or iRig before starting the MMP file, otherwise you'll get a 
 
 - Android
 
-	Download the MobMuPlat App on the Google Play Store
+		Download the MobMuPlat App on the Google Play Store
 
-	Download this projects "grandelay" folder onto your Android device
+		Download this projects "grandelay" folder onto your Android device
 
-	Find the MobMuPlat folder in your internal storage
+		Find the MobMuPlat folder in your internal storage
 
-	Open MobMuPlat App and the Granular Delay effect (grangui.mmp file)
+		Open MobMuPlat App and the Granular Delay effect (grangui.mmp file)
 
-	Speak into your headphone mic or play music through your iRig-type adapter
+		Speak into your headphone mic or play music through your iRig-type adapter
 
-	Modify effect parameters to your liking.   	
+		Modify effect parameters to your liking.   	
 
 - Windows 
 
-	Download MobMuPlat (MMP) for Windows
+		Download MobMuPlat (MMP) for Windows
 
-	Open the GUI in the MMP "CrossPlatformJava" folder
+		Open the GUI in the MMP "CrossPlatformJava" folder
 
-	Open your preferred Pure Data console
+		Open your preferred Pure Data console
 
-	Open the PdWrapper pd file with your Pure Data console
+		Open the PdWrapper pd file with your Pure Data console
 
-	Open the grannie-basher.pd file with your Pure Data console
+		Open the grannie-basher.pd file with your Pure Data console
 
-	In Pure Data preferences, select your preferred audio input source 
-	
-	Use the Granular Delay and record output with 3rd party software  
+		In Pure Data preferences, select your preferred audio input source 
+
+		Use the Granular Delay and record output with 3rd party software  
