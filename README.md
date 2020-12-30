@@ -1,14 +1,14 @@
 # Shoefinger Granular Delay
 Granular Delay Mobile App using MobMuPlat, Pure Data. Based on the grannie-basher granular delay. 
 
-Directions:
+Documentation
 
 *This app requires external audio input from either a pair of headphones with a built-in mic, or an iRig-type device that allows for plugging instruments in.*
 *Before running the mmp file, make sure MobMuPlat file opener displays all the necessarry files you imported:* 
 	
 	grandma.pd grangui.mmp grannie-basher.pd grannie.txt granny-basher-help.pd hillybeach.jpg
 
-*Plug in headphones or iRig before starting the MMP file, otherwise you'll get a nasty feedback loop from the phone's speaker noise*
+Plug in headphones or iRig before starting the MMP file, otherwise you'll get a nasty feedback loop from the phone's speaker noise
 
 - IOS
 
