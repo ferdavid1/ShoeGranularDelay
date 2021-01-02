@@ -1,5 +1,6 @@
 # Shoefinger Granular Delay
-Granular Delay Mobile App using MobMuPlat, Pure Data. Based on the grannie-basher granular delay. 
+Granular Delay Mobile App using MobMuPlat, Pure Data. Based on the grannie-basher granular delay.
+If downloading the repo files from a mobile device, please visit the desktop version of this site.
 
 # Documentation #
 
