@@ -20,7 +20,7 @@ Plug in headphones or iRig before starting the MMP file, otherwise you'll get a 
 
 		Drag this project's "grandelay" folder into MobMuPlat's documents section
 
-		Plug in headphones or iRig adapter
+		Plug in headphones (not compatible with AirPods) or iRig adapter
 
 		Open MobMuPlat App and the Granular Delay effect (grangui.mmp file)
 
@@ -35,7 +35,7 @@ Plug in headphones or iRig before starting the MMP file, otherwise you'll get a 
 		Open this project's "grandelay" folder (after downloading it from this repository) and download 
 		it to your IPhone/IPad's "MobMuPlat" folder using Files. 
 
-		Plug in headphones or iRig adapter
+		Plug in headphones (not compatible with AirPods) or iRig adapter
 
 		Open MobMuPlat App and the Granular Delay effect (grangui.mmp file)
 
