@@ -5,7 +5,7 @@ If downloading the repo files from a mobile device, please visit the desktop ver
 # Documentation #
 
 *This app requires external audio input from either a pair of headphones with a built-in mic, or an iRig-type device that allows for plugging instruments in.*
-*Before running the mmp file, make sure MobMuPlat file opener displays all the necessarry files you imported:* 
+*Before running the mmp file, make sure MobMuPlat file opener displays all the necessary files you imported:* 
 	
 	grandma.pd grangui.mmp grannie-basher.pd grannie.txt granny-basher-help.pd hillybeach.jpg
 
