@@ -50,7 +50,7 @@ Plug in headphones or iRig before starting the MMP file, otherwise you'll get a 
 
 		Download this projects "grandelay" folder onto your Android device
 
-		Find the MobMuPlat folder in your internal storage
+		Find the MobMuPlat folder in your internal storage and move the downloaded grandelay folder to this MobMuPlat folder
 
 		Open MobMuPlat App and the Granular Delay effect (grangui.mmp file)
 
